@@ -2,3 +2,5 @@
 #assignment 2 task 2:https://github.com/navya756/AIML-2024/blob/main/2203A51602%20ass%202.ipynb
 #assignment 3 task 3 :https://github.com/navya756/AIML-2024/blob/main/assignment4.ipynb
 # ML assignment 1: https://github.com/navya756/AIML-2024/blob/main/2203A51602%20-%20Colaboratory.pdf
+# assignment  2: https://github.com/navya756/AIML-2024/blob/main/Assignment_5_2ipynb.ipynb
+
